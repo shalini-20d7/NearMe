@@ -107,10 +107,8 @@ aavin.html
 ```
 ## OUTPUT
 
+![alt text](image1.png)
+![alt text](image.png)
 ![alt text](image-2.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
