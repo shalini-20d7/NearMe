@@ -106,7 +106,7 @@ aavin.html
 
 ```
 ## OUTPUT
-
+![alt text](<Screenshot 2025-12-10 153321.png>)
 ![alt text](image1.png)
 ![alt text](image.png)
 ![alt text](image-2.png)
